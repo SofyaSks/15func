@@ -25,7 +25,7 @@ int main() {
 	cout << maxfunc(n, m) << endl;
 
 
-
+	cout << "Finish";
 
 
 
